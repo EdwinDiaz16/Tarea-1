@@ -1,0 +1,43 @@
+header{
+	width: 100%;
+	height: 120px;
+	background-color: #8B008B;
+     }
+
+header h1{
+	color: #FDFFFF;
+	text-shadow: 6px 6px black ;
+}     
+#nombre{
+	width: 500px;
+	border: 1px;
+	margin: auto;
+	padding-top: 25px;
+}
+
+main{
+		width: 85%;
+		margin: auto; 
+		font-size: 20px;
+		text-align: justify;
+	}
+
+#final{
+	padding-bottom: 75px;
+}
+footer{
+	width: 100;
+	height: 75px;
+	background-color: #8B008B;
+	text-align: center;
+
+}
+
+footer h1{
+	color: #FDFFFF;
+	text-shadow: 4px 4px black ;
+
+}
+body{
+	font-family: Lato, sans-serif;
+}
